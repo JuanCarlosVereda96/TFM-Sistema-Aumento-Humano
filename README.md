@@ -48,9 +48,3 @@ prototipo, vídeos y documentación asociada.
 
 Trabajo Fin de Máster  
 Universidad Internacional de Valencia
-## Autor
-
-Juan Carlos Vereda Ruiz
-
-Trabajo Fin de Máster
-Universidad Internacional de Valencia
