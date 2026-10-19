@@ -3,8 +3,8 @@
 Trabajo Fin de Máster centrado en el desarrollo de un sistema de
 Aumento Humano Asistido por Inteligencia Artificial orientado a
 ampliar las capacidades perceptivas, cognitivas y físicas del usuario
-mediante percepción multimodal del entorno, comprensión contextual,
-estimación dinámica de riesgo y asistencia adaptativa en tiempo real.
+mediante percepción multimodal del entorno, comprensión contextual y
+estimación dinámica de riesgo.
 
 ## Estructura del repositorio
 
